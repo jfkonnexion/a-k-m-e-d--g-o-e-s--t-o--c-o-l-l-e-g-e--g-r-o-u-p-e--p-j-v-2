@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{17A7F441-222A-4F29-B18D-EC7751636500}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GroupePJV/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="GroupePJV/Controllers/HomeController.cs" Line="24" Column="1" />
+      <File FileName="GroupePJV/Views/Home/Index.cshtml" Line="2" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GroupePJV PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
